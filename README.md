@@ -1,26 +1,21 @@
-# 🖤🛣️ BlackRoad Data Quality Checker
+# BlackRoad Data Quality Checker
 
-**Wave 7** | Part of the BlackRoad Product Empire - 400+ enterprise solutions
+Automated data quality validation with anomaly detection and alerting.
 
-## 🚀 Quick Start
+## Features
 
-```bash
-./blackroad-data-quality-checker.sh
-```
+- **Rule Engine** - Define quality rules declaratively
+- **Anomaly Detection** - ML-powered outlier detection
+- **Profiling** - Automatic data statistics
+- **Alerting** - Slack, email, PagerDuty
+- **Dashboards** - Quality trends and metrics
+- **CI/CD Integration** - Fail pipelines on quality issues
 
-## 🎨 BlackRoad Design System
+## Quality Dimensions
 
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
+Completeness, accuracy, consistency, timeliness, uniqueness, validity
 
-## 📚 Documentation
+## License
 
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of **400+ products** across **52 categories**. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude | Wave 7
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
